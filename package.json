@@ -1,5 +1,5 @@
 {
-    "name": "assets-bower-ci",
+    "name": "assets-bower-ci-legacy",
     "version": "0.1.6",
     "description": "assets-bower-ci ===============",
     "main": "index.js",
@@ -8,12 +8,12 @@
     },
     "repository": {
         "type": "git",
-        "url": "https://github.com/at15/assets-bower-ci.git"
+        "url": "https://github.com/at15/assets-bower-ci-legacy.git"
     },
     "author": "",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/at15/assets-bower-ci/issues"
+        "url": "https://github.com/at15/assets-bower-ci-legacy/issues"
     },
     "devDependencies": {
         "should": "latest"
@@ -25,5 +25,5 @@
         "uglify-js": "latest",
         "clean-css": "latest"
     },
-    "homepage": "https://github.com/at15/assets-bower-ci"
+    "homepage": "https://github.com/at15/assets-bower-ci-legacy"
 }
